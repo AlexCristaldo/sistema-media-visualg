@@ -2,18 +2,18 @@
 
 Projeto desenvolvido em **VisualG** que calcula a média das notas de um aluno e informa se o aluno está aprovado, reprovado ou de recuperação, com base em critérios pré-definidos.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 - Calcula média a partir de duas notas inseridas.
 - Verifica se o aluno está aprovado (média >= 7), recuperação (média >= 5) ou reprovado (média < 5).
 - Utiliza estrutura condicional composta (`SE-ENTÃO-SENÃO`).
 
-## 🛠️ Tecnologias usadas
+##  Tecnologias usadas
 - VisualG
 - Estruturas condicionais
 - Entrada e saída de dados
 - Programação estruturada
 
-## 📌 Exemplo do código em VisualG:
+##  Exemplo do código em VisualG:
 
 ```pascal
 Var
